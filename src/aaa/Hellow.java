@@ -10,8 +10,8 @@ public static void main(String[] args) {
 
 	Hellow h=new Hellow();
 	h.display();
-System.out.println();
-
+System.out.println("hi");
+System.out.println("hello");
 	
 }
 }
